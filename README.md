@@ -69,3 +69,5 @@ SCRUM: cada integrante del equipo desempeño el rol de SCRUM Master a lo largo d
 ## Desarrollo Backend de Rentti
 
 Repositorio: https://github.com/lsofiadb/Rentti_backend
+
+## [Video Demo :video_camera:](https://www.youtube.com/watch?v=hO80lVDl_lE)
